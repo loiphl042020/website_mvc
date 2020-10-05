@@ -1,4 +1,5 @@
-</div>
+</div>/*thay đổi*/
+
    <div class="footer">
    	  <div class="wrapper">	
 	     <div class="section group">
