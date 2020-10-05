@@ -1,7 +1,6 @@
 
 <?php
-	include "inc/header.php";
-	include "inc/slider.php";
+	include "inc/header.php";/*Thay dổi index.php nah main */
 ?>
  <div class="main">
     <div class="content">
